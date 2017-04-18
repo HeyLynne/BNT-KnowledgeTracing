@@ -1,8 +1,4 @@
 
-%root_dirname = '/Users/guoshuai/OneDrive/Lab/KnowledgeTracing/Code & Doc/data - paper/';
-%Qdirname = 'Question/';
-%Kdirname = 'PercentCorrect_2/';
-
 root_dirname = 'D:\mine_project\code\Matlab\BNT-KT\';
 Qdirname = 'Question\';
 Kdirname = 'PercentCorrect_2\';
